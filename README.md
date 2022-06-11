@@ -4,12 +4,13 @@
   <a href="https://github.com/govindsingh01"><img src="https://readme-typing-svg.herokuapp.com?color=170D92&lines=Self+Taught+Programmer+and+Developer;Hardworking%2C+Determined%2C+Passionate;Always+learning+new+skills&height=45"></a>
 </p>
 
-I am a prefinal year B.Tech student looking forward for opportunities and collabaration in projects related to web and Mobile apps-
+My name is Govind , Senior Flutter-Firebase Engineer, looking forward for opportunities and collabaration in projects related to web and Mobile apps-
 
 - 🔭 I’m currently working on flutter apps.
-- 🌱 I’m learning Dart nowdays.
-- 👯 I’m looking to collaborate on flutter projects.
-- 🤔 I’m looking for help with Freelancing projects realed to web development & flutter apps.
+- 🌱 I've been a professional mobile app developer for over 2.5 years with a wide range of experience in iOS, Android, Flutter native & hybrid app 
+     development. 
+- 🌐 experience in integrating Firebase & REST APIs 
+- 🤔 strong organizational, problem-solving and analytical thinking
 - 💬 Ask me about - Web Development and App Development.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:  There are over 700 different programming languages!!!
