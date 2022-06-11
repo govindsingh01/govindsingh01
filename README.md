@@ -16,9 +16,7 @@ My name is Govind , Senior Flutter-Firebase Engineer, looking forward for opport
 - ⚡ Fun fact:  There are over 700 different programming languages!!!
 ### Current Streak
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=govindsingh01&theme=blue-green&hide_border=true&currStreakNum=DD2727)](https://git.io/streak-stats)
-### Connect with me:
-
-[<img align="left" alt="" width="22px" src="https://www.fpsa.org/wp-content/uploads/linkedin-logo-copy.png" />](https://www.linkedin.com/in/govind-singh-1980841ab)
+### Connect with me:[<img align="left" alt="" width="22px" src="https://www.fpsa.org/wp-content/uploads/linkedin-logo-copy.png" />](https://www.linkedin.com/in/govind-singh-1980841ab)
 
 
 
