@@ -26,10 +26,7 @@ My name is Govind , Senior Flutter-Firebase Engineer, looking forward for opport
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=govindsingh01)
 
-### Overall
 
-![Govind's github stats](https://github-readme-stats.vercel.app/api?username=govindsingh01)
-<div align="center">
 
 ### Show some ❤️ by starring some of the repositories and following me!
 
