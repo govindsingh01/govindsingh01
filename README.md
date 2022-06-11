@@ -19,8 +19,7 @@ My name is Govind , Senior Flutter-Firebase Engineer, looking forward for opport
 ### Connect with me:
 
 [<img align="left" alt="" width="22px" src="https://www.fpsa.org/wp-content/uploads/linkedin-logo-copy.png" />](https://www.linkedin.com/in/govind-singh-1980841ab)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />](https://www.instagram.com/__govind.singh)
-<br />
+
 
 ### Languages used
 
